@@ -22,8 +22,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup GitHub Pages
-        uses: actions/configure-pages@v5
+    #   - name: Setup GitHub Pages
+    #     uses: actions/configure-pages@v5
+
+     - name: Setup GitHub Pages
+  uses: actions/configure-pages@v999
 
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
