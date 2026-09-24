@@ -50,9 +50,10 @@ document.addEventListener('DOMContentLoaded', () => {
       strings: [
         'WordPress Developer',
         'WooCommerce Expert',
-        'LifterLMS Developer',
+        'Technical SEO Specialist',
         'PHP Developer',
         'Elementor Expert',
+        'Theme Developer',
         'Plugin Developer'
       ],
       typeSpeed: 55,
